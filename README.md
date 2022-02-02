@@ -9,3 +9,5 @@ The regular wordle rules are followed but the solver will always use known yello
 This method produces a 94% win rate at the game getting the answer in 4 guesses on average.
 
 Fun fact: **alter** is the best starter word for wordle according to letter frequency.
+
+You can play Wordle [here](https://www.powerlanguage.co.uk/wordle/)
